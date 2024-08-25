@@ -7,5 +7,3 @@ btn1.addEventListener('click', function () {
     })
 
 })
-
-
